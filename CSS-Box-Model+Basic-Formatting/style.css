@@ -1,0 +1,160 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: inherit;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 18px;
+    background-color: #333333;
+}
+
+header {
+    width: auto;
+    height: auto;
+    height: 45.40vh;
+    background-image: url("pexels-photo-248515.png");
+    background-size: cover;
+}
+
+header h1 {
+    padding: 12px;
+    padding: 107px 100px 15px 100px;
+    color: white;
+}
+
+header p {
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+    width: 855px;
+    color: white;
+}
+
+header a {
+    text-decoration: none;
+    border: 1px solid rgb(131, 131, 131);
+    padding: 17px;
+    display: inline-block;
+    color: white;
+    width: 159px;
+}
+
+.Application-Development {
+    border: 1px solid white;
+    background-color: #eaeaea;
+    height: 226px;
+    width: auto;
+}
+
+.Application-Development h2 {
+    font-size: 26px;
+    padding: 29px;
+}
+
+.Application-Development p {
+    width: 450px;
+    display: inline-block;
+}
+
+.section-cart {
+    height: 389px;
+    padding: 25px;
+}
+
+.section-cart div {
+    background-color: white;
+    display: inline-block;
+    width: 285px;
+    padding: 26px;
+    margin: 7.50px;
+}
+
+.section-cart h3 {
+    padding: 17px;
+}
+
+.section-cart p {
+    padding: 20px;
+}
+
+/*  */
+.Contact-Us {
+    color: white;
+    background-color: #2690d4;
+    width: 950px;
+    height: 312px;
+    padding: 20px;
+    display: inline-block;
+}
+
+.Contact-Us h3 {
+    font-size: 26px;
+    padding: 35px 0 0 0;
+}
+
+.Contact-Us p {
+    padding: 49px 0 0 0;
+    width: 930px;
+}
+
+.Our-Company {
+    color: white;
+    width: 950px;
+    padding: 20px;
+    display: inline-block;
+    height: 100px;
+} 
+
+.Our-Company h3 {
+    font-size: 26px;
+    padding: 26px 0 0 0;
+}
+
+.Our-Company p {
+    padding: 26px;
+    width: 930px;
+    display: block;
+}
+
+.digital-needs {
+    background-color: white;
+    height: 251px;
+    padding: 35px;
+}
+
+.digital-needs h2 {
+    padding: 26px;
+}
+
+.digital-needs p {
+    padding: 17px;
+    width: 900px;
+    margin: auto;
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    height: 96px;
+    padding: 35px;
+    color: rgb(255, 255, 255);
+}
+
+.p-1 {
+    position: absolute;
+    transform: translateX(-437px);
+    display: inline;
+}
+
+.p-2 {
+    transform: translateX(450px);
+    display: inline-block;
+}
+
+a {
+    color: #2690d4;
+}
