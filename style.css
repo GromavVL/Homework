@@ -311,7 +311,7 @@ footer .visa-mastercard {
     /* display: flex; */
     background-color: #f5f5f5;
     overflow: hidden;
-    max-width: 100%;
+    max-width: 100%
 }
 
 .main-menu h1 {
@@ -355,3 +355,4 @@ footer .visa-mastercard {
     flex-wrap: wrap;
     justify-content: center;
 }
+
